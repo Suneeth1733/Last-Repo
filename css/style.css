@@ -1,0 +1,11 @@
+.bg-black{background-color: black;}
+.barlogo{background: #fff; width: 30px; height: 30px;}
+.about-text{font-weight: bold;}
+.about-section{background-image:url(../images/about\ image.jpeg);}
+.home{border-radius:8px ;}
+.social-section{background-image: url(../images/about\ image.jpeg);}
+.contact-section{background-image: url(../images/contact\ image.jpeg);}
+textarea.form-control {height: 245px;}
+.footer{font-weight: lighter;}
+.gallery-section{background-image: url(../images/photo\ image.jpeg);}
+.bold{font-weight: bold;}
